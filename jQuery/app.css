@@ -1,0 +1,17 @@
+
+.mouseOver {
+    background-color: crimson;
+    color: white;
+}
+
+.redText {
+    color: red;
+}
+
+.objectiveDiv {
+    border-style: solid; padding-bottom: 1em; margin-bottom: 1em;
+}
+
+.contentDiv {
+    min-height: 50px;    
+}
